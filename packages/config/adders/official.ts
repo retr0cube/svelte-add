@@ -3,7 +3,7 @@ import type { AdderCategories } from '../categories.js';
 export const adderCategories: AdderCategories = {
 	codeQuality: ['prettier', 'eslint'],
 	testing: ['vitest', 'playwright'],
-	css: ['tailwindcss', 'bulma', 'bootstrap'],
+	css: ['tailwindcss', 'bulma', 'bootstrap', 'guff'],
 	db: ['drizzle'],
 	additional: ['storybook', 'mdsvex', 'routify'],
 };
